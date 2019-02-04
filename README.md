@@ -1,7 +1,6 @@
 # Ford-Fulkerson-Maximum-Flow
 
-
-
+The method **fordfulkerson** computes an integer corresponding to the max flow of the “graph” and the graph itself. It outputs a .txt file nameed fordfulkersonOutput.txt
 
 The method **pathDFS** finds a path through a Depth First Search (DFS) between the nodes “source” and
 “destination” in the “graph” through non-zero weight edges. You must return an ArrayList of
