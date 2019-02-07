@@ -9,3 +9,6 @@ found, return an empty ArrayList. The first element in the list must correspond 
 node, the second element in the list must be the second node in the path, and so on until the last
 element (i.e., the “destination” node) is stored.
 
+An example of WGraph object can be found in the ff2.txt file. 
+
+An expected output once we execute the **fordfulkerson.java** file with the **ff2.txt** as an input file can be found in the **fordfulkersonOutput.txt** file.
