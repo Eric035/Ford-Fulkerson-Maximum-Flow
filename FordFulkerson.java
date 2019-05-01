@@ -70,7 +70,7 @@ public class FordFulkerson {
 			}
 		}
 	
-		for (int i = 0; i < tGraph.getEdges().size(); i ++) 
+		for (int i = 0; i < tGraph.getEdges().size(); i++) 
 		{
 			int[] tNodes = tGraph.getEdges().get(i).nodes;
 			graph.setEdge(tNodes[0], tNodes[1], 0);
